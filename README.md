@@ -20,6 +20,10 @@ This project analyzes the employee attrition rate of a company. I created an int
 ## Technical Details
 - Development environment: Power BI Desktop
 
+## Dashboard Overview
+![image](https://github.com/user-attachments/assets/0748c9b9-77d3-4385-baaf-20fc4a3c7295)
+
+
 ## Conclusion
 This project analyzes the employee attrition rate of a company. I created an interactive dashboard using Power BI to help the company understand its employee attrition rate. You can clone this project and analyze your company's employee attrition rate.
 
