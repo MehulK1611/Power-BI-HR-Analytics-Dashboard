@@ -23,3 +23,9 @@ This project analyzes the employee attrition rate of a company. I created an int
 ## Conclusion
 This project analyzes the employee attrition rate of a company. I created an interactive dashboard using Power BI to help the company understand its employee attrition rate. You can clone this project and analyze your company's employee attrition rate.
 
+### Lets Connect
+
+**Mehul Khandelwal**
+
+- Linkedin: [@mehulk16](https://www.linkedin.com/in/mehulk16/)
+
